@@ -1,0 +1,30 @@
+header{
+    background-color: #02ad66;
+}
+h1 {
+    font: italic 50px "fira sans", serif;
+    text-align: center;
+}
+body{
+    font: italic 35px "Fira Sans", serif;
+    background-color: #31d691;
+}
+ol{
+    font-weight: 450;
+}
+footer{
+    margin-bottom: auto;
+    flex: none;
+    font: bold, italic;
+    font-size: 30px;
+    background-color: #02ad66;
+}
+.logo{
+    width: 40px;
+}
+.contact{
+    width: 30px;
+}
+footer p3 {
+    font-size: 30px;
+}
